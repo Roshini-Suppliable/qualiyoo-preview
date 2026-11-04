@@ -1,2 +1,6 @@
-User-agent: *
-Disallow: /
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /files/
+
+Sitemap: https://roshini-suppliable.github.io/qualiyoo-preview/sitemap.xml
