@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://roshini-suppliable.github.io/qualiyoo-preview/sitemap.xml
+Sitemap: https://qualiyoo.com/sitemap.xml
