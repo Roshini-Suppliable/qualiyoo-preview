@@ -2,4 +2,18 @@ User-Agent: *
 Allow: /
 Disallow: /api/
 
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: GPTBot
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
+User-Agent: Claude-User
+User-Agent: Google-Extended
+User-Agent: Bingbot
+User-Agent: Applebot
+Allow: /
+Disallow: /api/
+
 Sitemap: https://qualiyoo.com/sitemap.xml

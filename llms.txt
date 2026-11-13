@@ -1,0 +1,40 @@
+# Qualiyoo
+
+> Architectural, structural and MEP design, site quality assurance and material purchasing for homes and buildings in Chennai and Bangalore. The technical team behind your building.
+
+Qualiyoo is a technical team for people building a house or building in Chennai and Bangalore, India: building consultants, architects, structural and MEP engineers, site quality engineers and purchase specialists. It works alongside the owner's architect or contractor, or fills the gaps they don't cover. Every service has a published starting price; a firm quote is confirmed before any work begins.
+
+## Services and starting prices
+
+- [Building consultant](https://qualiyoo.com/services/building-consultant/) (Advise): Advice and guidance on your construction plans, before you start. From ₹5,000 per consultation.
+- [Architectural design](https://qualiyoo.com/services/building-plans/) (Design): Floor plans and working drawings for your house or building, in three levels: Base, Premium and Signature. From ₹18,000 up to 2,000 sq ft.
+- [Structural design](https://qualiyoo.com/services/structural-design/) (Design): The design of your building's skeleton: foundation, columns, beams and slabs. From ₹12,000 up to 2,000 sq ft.
+- [MEP design](https://qualiyoo.com/services/electrical-plumbing-plans/) (Design): Electrical, plumbing and drainage layouts: where every switch, light, pipe and drain goes. From ₹9,000 minimum, then ₹5 per sq ft.
+- [Quality assurance](https://qualiyoo.com/services/quality-assurance/) (Check): An engineer inspects your site against the drawings, per visit or at every stage. From ₹2,000 per visit.
+- [Purchasing](https://qualiyoo.com/services/material-purchasing/) (Buy): We turn your material list into orders, compare suppliers, schedule deliveries and check what arrives. No fees.
+
+## Quality assurance: the Qualiyoo Standard (QS-185)
+
+Site inspections follow the Qualiyoo Standard: 185 checkpoints across 14 construction stages, each measured, photographed and checked against the drawings and Indian Standards. Issues are graded minor, major or critical; the report arrives within 24 hours with a corrective action list naming the person responsible, and a free re-inspection verifies every fix. Overview: https://qualiyoo.com/standard/
+
+## Good to know
+
+- Where do you work? Chennai and Bangalore.
+- How is pricing decided? Each service shows a starting price. Design fees depend on the built-up area and number of floors. Site inspections are priced per visit, by building size. Purchasing has no fee. We confirm a firm quote before any work begins.
+- Is there a discount for taking several services? Yes. Book our services together as a bundle and get 15% off the total.
+- What size of building do you work on? Homes and commercial buildings up to ground + 5 floors and under 10,000 sq ft.
+- Do I need to pay to enquire? No. Enquiries are free and there is no commitment.
+- Do you replace my architect or contractor? No. We work alongside them, or fill the gaps they don't cover.
+- Who does the work? Qualified engineers, architects and purchase specialists. Where a drawing needs an official signature, it is signed by a properly licensed professional.
+
+## Pages
+
+- [Home](https://qualiyoo.com/)
+- [Services and prices](https://qualiyoo.com/services/)
+- [Free drawing check](https://qualiyoo.com/free-drawing-check/): send one drawing; an engineer reviews it and calls you. Free.
+- [Chennai](https://qualiyoo.com/chennai/)
+- [Bangalore](https://qualiyoo.com/bangalore/)
+- [For architects, contractors and builders](https://qualiyoo.com/partners/)
+- [About](https://qualiyoo.com/about/)
+- [Get started](https://qualiyoo.com/get-started/)
+- [Contact](https://qualiyoo.com/speak-to-an-expert/): hello@qualiyoo.com
